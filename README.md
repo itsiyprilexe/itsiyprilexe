@@ -36,7 +36,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,lightroom,blender,ai,ae&theme=dark" alt="Figma, Photoshop, Adobe Illustrator, Adobe After Effects, Blender, Adobe Lightroom" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,blender,ai,ae&theme=dark" alt="Figma, Photoshop, Adobe Illustrator, Adobe After Effects, Blender" />
 </p>
 
 ---
