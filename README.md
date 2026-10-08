@@ -28,7 +28,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css,kotlin,nodejs,react&theme=dark" alt="React,Kotlin,Node.js,Java, Python, JavaScript, C++, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css,kotlin,nodejs,react,electron,laravel&theme=dark" alt="Programming and web development tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB, and Firebase" />
 </p>
 
 <h3 align="center">
