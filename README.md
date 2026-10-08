@@ -1,73 +1,64 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+April;Computer+Science+Student;Graphic+Designer+%7C+Web+Developer" alt="Hi, I'm April — Computer Science Student, Graphic Designer, and Web Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FF4FD8&center=true&vCenter=true&width=700&lines=HEY%2C+I'M+APRIL+%F0%9F%91%8B;CS+STUDENT+%7C+CREATIVE+CODER;DESIGNING+AND+BUILDING+COOL+THINGS" alt="Hey, I'm April — Computer Science student, creative coder, designer, and builder" />
 </h1>
 
 <p align="center">
-  <em>I enjoy coding, building apps, designing, and exploring new technologies.</em>
+  <em>Turning curiosity into code, ideas into design, and late-night inspiration into projects</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/itsiyprilexe">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
-  &nbsp;
   <a href="https://instagram.com/_iypril.exe">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-EA4AAA?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
   </a>
-  &nbsp;
   <a href="https://discord.com/users/prilang04">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" />
   </a>
-  &nbsp;
   <a href="https://www.facebook.com/share/1Hom3gGJZ3/">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" height="42" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsiyprilexe&style=for-the-badge&color=9B5DE5&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7DF9FF&center=true&vCenter=true&width=550&lines=%F0%9F%A7%8A+MY+CREATIVE+TOOLKIT" alt="My Creative Toolkit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+CODE+%7C+CREATE+%7C+REPEAT" alt="Code, create, repeat" />
 </h2>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="58" alt="Java" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="58" alt="Python" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="58" alt="JavaScript" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="58" alt="C++" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="58" alt="HTML5" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="58" alt="CSS3" /></a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" alt="Java, Python, JavaScript, C++, HTML, and CSS" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FF70A6&center=true&vCenter=true&width=300&lines=%F0%9F%8E%A8+DESIGN+TOOLS" alt="Design Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF70A6&center=true&vCenter=true&width=350&lines=%F0%9F%8E%A8+DESIGN+CORNER" alt="Design corner" />
 </h3>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="58" alt="Figma" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=ps&theme=dark" height="58" alt="Photoshop" /></a>
+  <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" alt="Figma and Photoshop" />
+  <br />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFB703&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GITHUB+DASHBOARD" alt="GitHub Dashboard" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MY+GITHUB+IN+MOTION" alt="My GitHub in motion" />
 </h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itsiyprilexe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB703&icon_color=FFB703&text_color=E6EDF3&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=itsiyprilexe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FD8&icon_color=00E5FF&text_color=E6EDF3&rank_icon=github"
     height="180"
     alt="April's GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiyprilexe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB703&text_color=E6EDF3"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiyprilexe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4FD8&text_color=E6EDF3"
     height="180"
     alt="Most used languages"
   />
@@ -75,7 +66,19 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=itsiyprilexe&hide_border=true&background=0D1117&ring=FFB703&fire=FFB703&currStreakLabel=FFB703&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=itsiyprilexe&hide_border=true&background=0D1117&ring=FF4FD8&fire=FFB703&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
     alt="GitHub contribution streak"
   />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itsiyprilexe&bg_color=0D1117&color=E6EDF3&line=FF4FD8&point=00E5FF&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+<p align="center">
+  <strong>Thanks for stopping by — let’s build something awesome!</strong>
 </p>
