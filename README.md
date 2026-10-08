@@ -50,7 +50,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=itsiyprilexe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FD8&icon_color=00E5FF&text_color=E6EDF3&rank_icon=github"
     height="180"
-    alt="April's GitHub stats"
+    alt="My GitHub stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiyprilexe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4FD8&text_color=E6EDF3"
