@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+April;Computer+Science+Student;Graphic+Designer+%7C+Web+Developer" alt="Hi, I'm April — Computer Science Student, Graphic Designer, and Web Developer" />
 </h1>
@@ -27,7 +26,9 @@
 
 ---
 
-<h2 align="center">🧊 My Creative Toolkit</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=7DF9FF&center=true&vCenter=true&width=550&lines=%F0%9F%A7%8A+MY+CREATIVE+TOOLKIT" alt="My Creative Toolkit" />
+</h2>
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="58" alt="Java" /></a>
@@ -43,7 +44,9 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="58" alt="CSS3" /></a>
 </p>
 
-<h3 align="center">🎨 Design</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FF70A6&center=true&vCenter=true&width=300&lines=%F0%9F%8E%A8+DESIGN+TOOLS" alt="Design Tools" />
+</h3>
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="58" alt="Figma" /></a>
@@ -53,7 +56,9 @@
 
 ---
 
-<h2 align="center">📊 GitHub Dashboard</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFB703&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GITHUB+DASHBOARD" alt="GitHub Dashboard" />
+</h2>
 
 <p align="center">
   <img
