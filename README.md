@@ -23,29 +23,50 @@
 
 ---
 
-<h2 align="center">🚀 Tech & Programming</h2>
+<h2 align="center">🧊 My Creative Toolkit</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="58" alt="Java" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="58" alt="Python" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="58" alt="JavaScript" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="58" alt="C++" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="58" alt="HTML5" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="58" alt="CSS3" /></a>
 </p>
 
-<h2 align="center">🎨 Design Tools</h2>
+<h3 align="center">🎨 Design</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="58" alt="Figma" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=ps&theme=dark" height="58" alt="Photoshop" /></a>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsiyprilexe&show_icons=true&theme=tokyonight&hide_border=true" alt="April's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=itsiyprilexe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB703&icon_color=FFB703&text_color=E6EDF3&rank_icon=github&include_all_commits=true"
+    height="180"
+    alt="April's GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiyprilexe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB703&text_color=E6EDF3"
+    height="180"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=itsiyprilexe&hide_border=true&background=0D1117&ring=FFB703&fire=FFB703&currStreakLabel=FFB703&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
 </p>
