@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsiyprilexe&style=for-the-badge&color=9B5DE5&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itsiyprilexe&style=for-the-badge&color=9B5DE5"
+       alt="Profile views" />
 </p>
 
 ---
@@ -71,13 +72,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsiyprilexe&bg_color=0D1117&color=E6EDF3&line=FF4FD8&point=00E5FF&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
 
 <p align="center">
   <strong>Thanks for stopping by — let’s build something awesome!</strong>
