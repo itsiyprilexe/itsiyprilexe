@@ -28,7 +28,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" alt="Java, Python, JavaScript, C++, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css,kotlin,nodejs,react&theme=dark" alt="React,Kotlin,Node.js,Java, Python, JavaScript, C++, HTML, and CSS" />
 </p>
 
 <h3 align="center">
