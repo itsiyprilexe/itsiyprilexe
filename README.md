@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+April;Computer+Science+Student;Graphic+Designer+%7C+Web+Developer" alt="Hi, I'm April — Computer Science Student, Graphic Designer, and Web Developer" />
 </h1>
@@ -6,49 +7,24 @@
   <em>I enjoy coding, building apps, designing, and exploring new technologies.</em>
 </p>
 
-<h2 align="center">✨ CONNECT WITH ME HERE HIHI ✨</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FFB703&center=true&vCenter=true&width=500&lines=Building+my+coding+journey+%F0%9F%9A%80;One+commit+at+a+time+%E2%9C%A8" alt="Building my coding journey, one commit at a time" />
+  <a href="https://github.com/itsiyprilexe">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_iypril.exe">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/prilang04">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1Hom3gGJZ3/">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" height="42" alt="Facebook" />
+  </a>
 </p>
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=itsiyprilexe&show_icons=true&hide_border=true&bg_color=1A1033&title_color=FFB703&icon_color=FF6EC7&text_color=F5F0FF&rank_icon=github&include_all_commits=true&border_radius=20"
-    height="190"
-    alt="GitHub stats card"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsiyprilexe&layout=compact&hide_border=true&bg_color=1A1033&title_color=FFB703&text_color=F5F0FF&border_radius=20"
-    height="190"
-    alt="Most used programming languages"
-  />
-
-</div>
-
-<br />
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=itsiyprilexe&hide_border=true&background=1A1033&ring=FFB703&fire=FF6EC7&currStreakLabel=FFB703&sideLabels=F5F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C4B5FD&border_radius=20"
-    width="700"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsiyprilexe&bg_color=1A1033&color=F5F0FF&line=FF6EC7&point=FFB703&area=true&hide_border=true&radius=16"
-    width="95%"
-    alt="Contribution activity graph"
-  />
-</p>
-
-<p align="center">
-  <sub>🌙 Turning ideas into code, one commit at a time ✨</sub>
-</p>
 ---
 
 <h2 align="center">🧊 My Creative Toolkit</h2>
