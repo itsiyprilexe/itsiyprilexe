@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FF4FD8&center=true&vCenter=true&width=700&lines=HEY%2C+I'M+APRIL+%F0%9F%91%8B;CS+STUDENT+%7C+CREATIVE+CODER;DESIGNING+AND+BUILDING+COOL+THINGS" alt="Hey, I'm April — Computer Science student, creative coder, designer, and builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FF4FD8&center=true&vCenter=true&width=700&lines=HEY%2C+I'M+APRIL;CS+STUDENT+%7C+CREATIVE+CODER;DESIGNING+AND+BUILDING+COOL+THINGS" alt="Hey, I'm April — Computer Science student, creative coder, designer, and builder" />
 </h1>
 
 <p align="center">
@@ -21,15 +21,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsiyprilexe&style=for-the-badge&color=9B5DE5"
-       alt="Profile views" />
-</p>
-
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+CODE+%7C+CREATE+%7C+REPEAT" alt="Code, create, repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=CODE+%7C+CREATE+%7C+REPEAT" alt="Code, create, repeat" />
 </h2>
 
 <p align="center">
@@ -37,7 +32,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF70A6&center=true&vCenter=true&width=350&lines=%F0%9F%8E%A8+DESIGN+CORNER" alt="Design corner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF70A6&center=true&vCenter=true&width=350&lines=DESIGN+CORNER" alt="Design corner" />
 </h3>
 
 <p align="center">
@@ -49,7 +44,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MY+GITHUB+IN+MOTION" alt="My GitHub in motion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=MY+GITHUB+IN+MOTION" alt="My GitHub in motion" />
 </h2>
 
 <p align="center">
@@ -71,7 +66,6 @@
     alt="GitHub contribution streak"
   />
 </p>
-
 
 <p align="center">
   <strong>Thanks for stopping by — let’s build something awesome!</strong>
