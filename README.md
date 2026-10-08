@@ -36,9 +36,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" alt="Figma, Photoshop, Canva" />
-  <br />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" alt="Figma and Photoshop " />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 ---
